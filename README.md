@@ -24,4 +24,4 @@ Fictional grass-fed supplement brand. 3-email abandoned cart flow with purchase 
 
 Personal Klaviyo practice environment demonstrating API-level diagnostic work across integration failures, event tracking issues, and data pipeline problems.
 
-All brands are fictional. All flows were built and configured in a live Klaviyo account by me.
+All brands are fictional. All flows were built and configured in a live Klaviyo account.
